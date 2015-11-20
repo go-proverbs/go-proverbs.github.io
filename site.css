@@ -1,31 +1,38 @@
-
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100);
 
 body
 {
-    font-family: 'Roboto Mono', ;
+    font-family: 'Roboto Mono';
     color: #4c4c4c;
     text-align: center;
-    background: url("gopher.png") no-repeat bottom;
     padding: 15px;
+    background: url("gopher.png") no-repeat bottom;
     background-position: 50px;
 }
 
-h1 {
+h1
+{
 	font-weight: 400;
 	font-size: 40px;
 }
 
-h2 {
+h2
+{
 	font-weight: 300;
 	font-size: 21px;
 }
 
-footer {
-   position:fixed;
-   left:0px;
-   bottom:20px;
-   height:30px;
-   width:100%;
-   font-size: 12px;
+.footer
+{
+    margin-top: 35px;
+    font-size: 13px;
+}
+
+@media (max-width: 1000px)
+{
+    body
+    {
+        background-position: 50px 20px;
+        margin-top: 220px;
+    }
 }
