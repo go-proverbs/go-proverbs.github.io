@@ -1,1 +1,1 @@
-# go-proverbs.github.io
+# [go-proverbs.github.io](http://go-proverbs.github.io)
