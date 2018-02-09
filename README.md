@@ -1,3 +1,3 @@
-[go-proverbs.github.io](http://go-proverbs.github.io)
+[no-proverbs.github.io](http://no-proverbs.github.io)
 
-[Rob Pike's talk](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+[Introducing No Code](https://twitter.com/kelseyhightower/status/961026365146320896)

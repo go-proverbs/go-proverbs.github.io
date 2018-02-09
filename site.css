@@ -1,13 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100);
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
 
 body
 {
-    font-family: 'Roboto Mono';
+    font-family: 'Barlow Condensed', serif;
     color: #4c4c4c;
     text-align: center;
     padding: 15px;
-    background: url("gopher.png") no-repeat bottom;
-    background-position: 50px;
 }
 
 h1
